@@ -123,6 +123,7 @@
 
 ### Random Tutorials
 + [Turn you Python script into an executable](https://medium.com/@looneymicheal/python-in-the-wild-e67e25ada254#.ef5m31330)
++ [Create Web-app with Python, HTML and JavaScript] (http://www.pixelmonkey.org/2012/06/14/web-app)
 
 ### Blogs
 + Jeff Knup's [Everything I know about Python](https://jeffknupp.com/)
